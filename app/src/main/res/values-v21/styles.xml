@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MaterialTheme" parent="ParentMaterialTheme">
+    <!-- Estos son los estilos para versiones de Lolipop en adelante -->
+        <!-- For ripple effect -->
+        <item name="android:colorControlHighlight">#e21c16</item>
+
+        <!-- Enable window content Transitions - Either specify here or specify in the Activity-->
+        <item name="android:windowContentTransitions">true</item>
+
+        <!-- Transition Overlap - Either Specify here or Specify in the Activity. -->
+        <!--<item name="android:windowAllowEnterTransitionOverlap">true</item>-->
+        <!--<item name="android:windowAllowReturnTransitionOverlap">true</item>-->
+
+    </style>
+</resources>
