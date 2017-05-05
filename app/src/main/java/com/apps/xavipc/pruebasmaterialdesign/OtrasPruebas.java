@@ -16,6 +16,7 @@ public class OtrasPruebas extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.btn_hablar_blp).setOnClickListener(this);
         findViewById(R.id.btn_compartir).setOnClickListener(this);
         findViewById(R.id.btn_abrir_pag).setOnClickListener(this);
+
     }
 
     @Override
